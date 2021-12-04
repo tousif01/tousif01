@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tousif01
+- 👋 Hi, I’m tousif
 - 👀 I’m interested in Cloud, specifically AWS Cloud
 - 🌱 I’m currently learning to contribute and collobarate with community people around
 <!---
